@@ -1,0 +1,1 @@
+export type menuItem = 'showTodoList' | 'addTodo' | 'editTodo' | 'deleteTodo' | 'exit'
